@@ -1,0 +1,1324 @@
+fileFormatVersion: 2
+guid: 7ec067916e82f644abd9a8889e4ec5b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 135
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enson_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1833
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c9c34ab6040044b43c37a5892656e
+      internalID: -1355932114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1831
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb541596d4d1eca44921a7a694c44820
+      internalID: -695949620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1831
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2e4691f80dc34cbe3e197090e8153
+      internalID: 570475021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1825
+        width: 105
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0dec1e8f6388d4087b9937044a0528
+      internalID: -1033208373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_6
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1825
+        width: 108
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eadf623126bc540b53350686b47ed3
+      internalID: -881976351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1659
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3f88d6ee45c44699c34f02b4fc96c
+      internalID: -1134956059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1661
+        width: 111
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05990cd32d817b4488d815ac048d2f3
+      internalID: 664983837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1656
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127cbcaea40a6c46b766f5fa1a1da44
+      internalID: 1741737435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1660
+        width: 114
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2305161ccd17034eb5a866feea1d3ed
+      internalID: 6236957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1599
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936c02e7e2e4816429a243eb48a8f4d8
+      internalID: -2036056515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1599
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409164961b6d27468b88bf9f0bf639c
+      internalID: -91998217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_20
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1599
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ae4677d91ccb4a8c62a0b9786d2b6
+      internalID: -982230368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1599
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9bd89e3210264191981e0ff7e498c
+      internalID: -1961437945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1442
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2277a93bdb8e42a754b69668ec134
+      internalID: -1123489476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1428
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4521a188bff9eb84ba99697082945fc4
+      internalID: -1161342832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1433
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9314d07290ba7d41beee836ad338f12
+      internalID: 15988459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_31
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1427
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67263272afdc85941ba11c5abb76bd35
+      internalID: 154151162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1424
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad42880d5f5a224ea4bf19b361f4d15
+      internalID: -1355834864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1342
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f63b7af50f3b64fbd4bc9b08b3d4b7
+      internalID: -1762881236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1342
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cae014de57144abbf132664724b8b
+      internalID: -94840037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_41
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1345
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82505d0f7d4de9d4088c6af840af3a54
+      internalID: 2100148915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_43
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1348
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ad3b18d0a6a74889d9df0f8273f04
+      internalID: 1008365817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1112
+        width: 144
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f8e0604c37a640ac979bce2256d9e
+      internalID: -1793208340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_54
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1109
+        width: 130
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2c59d87f5ed5f45b7c1b2c1ab4755e
+      internalID: -422972750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1112
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41372122af581c24c954a47b016d5e44
+      internalID: -121976798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1114
+        width: 132
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334ffa979fead647939af385b71932a
+      internalID: -517135542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a0de526bb65c459036404db5bc938
+      internalID: 528027945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 958
+        width: 136
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c160b3d45d38d46b351147ed8b130d
+      internalID: 1530922606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_97
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 958
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7029bfc452d1564b8eb4b3fbfe40e78
+      internalID: 1797241964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_99
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 957
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad404cac7443f48bd7021188ea1eef
+      internalID: 429319152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_100
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 948
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef581b00dd70f24d912c64dfe4da39d
+      internalID: -1263566791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 864
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce25f192e252c4a996453dbdacaef4
+      internalID: 805301443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_116
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 818
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e9769b6b4c2b40907ea65e3adb27c
+      internalID: -1084823379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_117
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 818
+        width: 136
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c0c007ba733f47a05148c7ed36487
+      internalID: -916111343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_119
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 816
+        width: 137
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e99d076429d6041b3714d2d4cb3452
+      internalID: -1096854946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_120
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 815
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fd2a1e6426c2b4aa2fb1358a9b48c6
+      internalID: 355511042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_143
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 510
+        width: 148
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488cbdd6b27d56b4491abf30163dbd70
+      internalID: -1782176326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_148
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 515
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a825becf1c8d81469424dfe184c951c
+      internalID: 30571825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_149
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 545
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7fe67094df00e4a9616b2fedb65fbf
+      internalID: -264776496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 523
+        width: 153
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea189d3ce6783941815e2be2ffcf46a
+      internalID: -1671783448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_151
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 510
+        width: 155
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8bbdfa1cf7d294f9a54e3a305ce963
+      internalID: -1331330084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_170
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 257
+        width: 95
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d83a5d53aa084f83b49a43d92a4ed
+      internalID: 250708109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_172
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 257
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e3253fc699b3c4aa561ec488669f6b
+      internalID: -1356748582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_173
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 257
+        width: 101
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c6b1087c7f90488b54ecbd3dc7b80
+      internalID: -2076280861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_175
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 240
+        width: 122
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328d9bdf35873c4aba51780e6bd4405
+      internalID: -564451289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enson_176
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 257
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289279ab67927874f91cb3308ae89165
+      internalID: -2070450129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b110f6d12aa1c8745b5343a5dbdd9454
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enson_0: -275704268
+      enson_1: -1355932114
+      enson_10: -1134956059
+      enson_100: -1263566791
+      enson_101: 782945271
+      enson_102: 1335134758
+      enson_103: 1256149514
+      enson_104: -817004288
+      enson_105: 805301443
+      enson_106: 799475078
+      enson_107: 1191324298
+      enson_108: -55980636
+      enson_109: 725372512
+      enson_11: -1721387861
+      enson_110: 41072232
+      enson_111: 1230232352
+      enson_112: 872058798
+      enson_113: -702112200
+      enson_114: -168081500
+      enson_115: -1823517013
+      enson_116: -1084823379
+      enson_117: -916111343
+      enson_118: 1517807223
+      enson_119: -1096854946
+      enson_12: 664983837
+      enson_120: 355511042
+      enson_121: 1003833440
+      enson_122: 1831803071
+      enson_123: 279505735
+      enson_124: 858204810
+      enson_125: -1568700431
+      enson_126: 569607449
+      enson_127: -322407124
+      enson_128: -2145091951
+      enson_129: -521065942
+      enson_13: 1741737435
+      enson_130: 948296677
+      enson_131: 1006764895
+      enson_132: 314768739
+      enson_133: 1384640889
+      enson_134: 676555463
+      enson_135: 1883048285
+      enson_136: 311834816
+      enson_137: -288320289
+      enson_138: 1580415475
+      enson_139: -1388474726
+      enson_14: 6236957
+      enson_140: 294280712
+      enson_141: 566686181
+      enson_142: 803167409
+      enson_143: -1782176326
+      enson_144: 1878428411
+      enson_145: -743762998
+      enson_146: -1671291623
+      enson_147: -792349411
+      enson_148: 30571825
+      enson_149: -264776496
+      enson_15: -2036056515
+      enson_150: -1671783448
+      enson_151: -1331330084
+      enson_152: -1278186343
+      enson_153: -429687191
+      enson_154: 1027751436
+      enson_155: -246458255
+      enson_156: -1625107874
+      enson_157: -1917390939
+      enson_158: 1887642784
+      enson_159: -1028537394
+      enson_16: 664926250
+      enson_160: -102696204
+      enson_161: -1081533902
+      enson_162: 1326453933
+      enson_163: -809938077
+      enson_164: 1240646194
+      enson_165: 1948608246
+      enson_166: -711312710
+      enson_167: -449167620
+      enson_168: -1016713683
+      enson_169: 548269534
+      enson_17: 495240551
+      enson_170: 250708109
+      enson_171: 1146517457
+      enson_172: -1356748582
+      enson_173: -2076280861
+      enson_174: -532743149
+      enson_175: -564451289
+      enson_176: -2070450129
+      enson_177: 1127619400
+      enson_178: -2130494725
+      enson_179: -2137483406
+      enson_18: -91998217
+      enson_180: -672843565
+      enson_181: 1158720542
+      enson_182: 99660642
+      enson_183: -779436871
+      enson_184: -1948461003
+      enson_185: -591424047
+      enson_186: 2072585012
+      enson_187: -628512773
+      enson_188: 186110674
+      enson_189: -1476440704
+      enson_19: 1550920257
+      enson_190: 425656780
+      enson_191: -797977483
+      enson_192: 1601601363
+      enson_193: -555035901
+      enson_194: 1847019139
+      enson_195: 1728223112
+      enson_196: 1217360427
+      enson_197: -131417350
+      enson_198: 2091012477
+      enson_199: 346606169
+      enson_2: 127640230
+      enson_20: -982230368
+      enson_200: 1107626443
+      enson_201: -234767325
+      enson_202: 329675811
+      enson_203: 767728955
+      enson_204: 1718489119
+      enson_205: 1367255801
+      enson_206: -477163460
+      enson_207: 77102350
+      enson_208: -1784895935
+      enson_209: -1143289698
+      enson_21: 2090590917
+      enson_22: -1961437945
+      enson_23: 1628375342
+      enson_24: 1180854010
+      enson_25: 105983070
+      enson_26: -1123489476
+      enson_27: -608420785
+      enson_28: -1161342832
+      enson_29: 15988459
+      enson_3: -695949620
+      enson_30: 430437504
+      enson_31: 154151162
+      enson_32: -1355834864
+      enson_33: 1166373801
+      enson_34: 531001139
+      enson_35: -377292529
+      enson_36: -1762881236
+      enson_37: -193986113
+      enson_38: 417305304
+      enson_39: -94840037
+      enson_4: 570475021
+      enson_40: 551154262
+      enson_41: 2100148915
+      enson_42: 1246080933
+      enson_43: 1008365817
+      enson_44: 1274877028
+      enson_45: 1398930712
+      enson_46: 73388069
+      enson_47: -764705085
+      enson_48: 695571367
+      enson_49: 1827826232
+      enson_5: -1033208373
+      enson_50: -1611289123
+      enson_51: 84987494
+      enson_52: -1793208340
+      enson_53: -99652968
+      enson_54: -422972750
+      enson_55: -1339918026
+      enson_56: -849552976
+      enson_57: 124192700
+      enson_58: -121976798
+      enson_59: -517135542
+      enson_6: -881976351
+      enson_60: 1689423952
+      enson_61: 52090789
+      enson_62: 746898962
+      enson_63: 1402607424
+      enson_64: 1478935569
+      enson_65: 1308293321
+      enson_66: 1316915214
+      enson_67: -1845496358
+      enson_68: -1602640147
+      enson_69: -1750934147
+      enson_7: -361394019
+      enson_70: 208851783
+      enson_71: -2024442305
+      enson_72: 638361837
+      enson_73: 758496752
+      enson_74: 528027945
+      enson_75: 1129058310
+      enson_76: -385288879
+      enson_77: 1386602032
+      enson_78: 862630731
+      enson_79: -64608475
+      enson_8: 1065552273
+      enson_80: 2088274302
+      enson_81: -1245202378
+      enson_82: 1026138979
+      enson_83: 1215701489
+      enson_84: -1364578203
+      enson_85: -915892481
+      enson_86: 1898231616
+      enson_87: -988155784
+      enson_88: -408107212
+      enson_89: 1938291657
+      enson_9: -810881834
+      enson_90: 748239535
+      enson_91: -2089374181
+      enson_92: 903404491
+      enson_93: 672016219
+      enson_94: -1884551436
+      enson_95: -611272766
+      enson_96: 1530922606
+      enson_97: 1797241964
+      enson_98: 920265116
+      enson_99: 429319152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
