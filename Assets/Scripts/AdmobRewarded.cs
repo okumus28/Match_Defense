@@ -24,8 +24,9 @@ public class AdmobRewarded : MonoSingleton<AdmobRewarded>
     {
         if (rewardedAd != null)
         {
-            rewardedAd.Destroy();
-            rewardedAd = null;
+            return;
+            //rewardedAd.Destroy();
+            //rewardedAd = null;
         }
 
         Debug.Log("Loading the rewarded ad");
@@ -43,6 +44,8 @@ public class AdmobRewarded : MonoSingleton<AdmobRewarded>
             Debug.Log("Rewarded ad loaded with response: " + ad.GetResponseInfo());
 
             rewardedAd = ad;
+
+            rewardedAd.OnAdFullScreenContentClosed += RewardedAdClosed;
         });
     }
 
@@ -58,15 +61,15 @@ public class AdmobRewarded : MonoSingleton<AdmobRewarded>
 
                 rewardedAdAction.Invoke();
                 //rewardedAd.OnAdImpressionRecorded += () => { Debug.Log("asdasd"); };
-                rewardedAd.OnAdPaid += (AdValue adValue) =>
-                {
-                    Debug.Log(String.Format("Ödüllü reklam {0} {1} ödedi.",
-                        adValue.Value,
-                        adValue.CurrencyCode));
+                //rewardedAd.OnAdPaid += (AdValue adValue) =>
+                //{
+                //    Debug.Log(String.Format("Ödüllü reklam {0} {1} ödedi.",
+                //        adValue.Value,
+                //        adValue.CurrencyCode));
 
-                    rewardedAdAction.Invoke();
-                    RegisterReloadHandler(rewardedAd);
-                };
+                //    //rewardedAdAction.Invoke();
+                //    RegisterReloadHandler(rewardedAd);
+                //};
             });
         }
     }
@@ -89,7 +92,8 @@ public class AdmobRewarded : MonoSingleton<AdmobRewarded>
     void RewardedAdClosed()
     {
         Debug.Log("Rewarded Ad full screen content closed.");
-
+        rewardedAd.Destroy();
+        rewardedAd = null;
         // Reload the ad so that we can show another as soon as possible.
         LoadRewardedAd();
     }
